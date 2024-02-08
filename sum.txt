@@ -2,3 +2,6 @@ a=20
 b=5
 c=a+b
 print c
+x=10
+y=5
+z=x*y
