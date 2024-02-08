@@ -6,3 +6,5 @@ x=10
 y=5
 z=x*y
 print z 
+g=z*c
+print(g)
